@@ -66,12 +66,14 @@ The dashboard has four pages:
 
 ## Repository Structure
 
+```text
 Spotify-repository/
 │
 ├── README.md
 ├── SQL/
 │   ├── 01_data_modeling.sql
 │   └── 02_analysis.sql
+│
 └── Dashboard/
     ├── Spotify_Analytics.pbix
     └── screenshots/
