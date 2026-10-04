@@ -71,11 +71,8 @@ Spotify-repository/
 ├── README.md
 ├── Data_Modeling.sql
 ├── Analysis.sql
-│
-└── Dashboard/
-    ├── Spotify_Analytics.pbix
-    └── screenshots/
-        ├── overview.png
-        ├── songs-artists.png
-        ├── regional-trends.png
-        └── song-deep-dive.png
+├── Spotify_Analytics.pbix
+├── overview.png
+├── songs-artists.png
+├── regional-trends.png
+└── song-deep-dive.png
