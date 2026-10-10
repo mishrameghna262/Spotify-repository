@@ -76,3 +76,12 @@ Spotify-repository/
 ├── songs-artists.png
 ├── regional-trends.png
 └── song-deep-dive.png
+
+
+![Market Landscape](overview.png)
+
+![Market Landscape](song-artist.png)
+
+![Market Landscape](regional-trends.png)
+
+![Market Landscape](song-deep-dive.png)
