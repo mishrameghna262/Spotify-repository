@@ -57,6 +57,20 @@ The dashboard has four pages:
 3. **Regional Trends** — regional chart activity and chart composition
 4. **Song Deep Dive** — detailed analysis of a selected song
 
+## Power BI Dashboard
+
+### 1. Overview
+![Spotify Overview](overview.png)
+
+### 2. Songs & Artists
+![Songs and Artists](songs-artists.png)
+
+### 3. Regional Trends
+![Regional Trends](regional-trends.png)
+
+### 4. Song Deep Dive
+![Song Deep Dive](song-deep-dive.png)
+
 ## Tools
 
 - SQL Server
@@ -78,10 +92,3 @@ Spotify-repository/
 └── song-deep-dive.png
 
 
-![Market Landscape](overview.png)
-
-![Market Landscape](song-artist.png)
-
-![Market Landscape](regional-trends.png)
-
-![Market Landscape](song-deep-dive.png)
